@@ -3,5 +3,9 @@ uuid = "48958359-34da-45cc-acfb-aa5eba865d5d"
 authors = ["Rob Bontekoe"]
 version = "0.1.0"
 
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+
 [compat]
 julia = "1.3"
+ForwardDiff = "0.10"
